@@ -6,4 +6,7 @@ package com.bwie.controller;
  * @desc 这是一个类
  **/
 public class IndexController {
+    public static void main(String[] args) {
+        
+    }
 }
